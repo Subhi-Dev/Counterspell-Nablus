@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Fonts","order":4,"path":"folders/Objects/Fonts.yy",},
+    {"name":"Notes","order":2,"path":"folders/Objects/Notes.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Object3","order":3,"path":"objects/Object3/Object3.yy",},
+    {"name":"Object4","order":5,"path":"objects/Object4/Object4.yy",},
+    {"name":"Object5","order":6,"path":"objects/Object5/Object5.yy",},
+    {"name":"bullet","order":1,"path":"sprites/bullet/bullet.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+  ],
+}

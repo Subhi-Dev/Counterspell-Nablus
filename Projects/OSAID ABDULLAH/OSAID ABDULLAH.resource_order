@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":1,"path":"folders/Fonts/Extensions.yy",},
+    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":12,"path":"folders/Notes.yy",},
+    {"name":"Particle Systems","order":11,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":8,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"grkikeow","order":1,"path":"objects/grkikeow/grkikeow.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"wall","order":3,"path":"objects/wall/wall.yy",},
+    {"name":"asl","order":3,"path":"sprites/asl/asl.yy",},
+    {"name":"men","order":4,"path":"sprites/men/men.yy",},
+    {"name":"wallwall","order":4,"path":"sprites/wallwall/wallwall.yy",},
+  ],
+}
